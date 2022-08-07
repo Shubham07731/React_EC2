@@ -1,0 +1,6 @@
+.edit_contact{
+    display: flex;
+    flex-direction: row;
+    color: white;
+justify-content: center;
+}
